@@ -20,3 +20,9 @@
 0.0.0.0	gcp-stag-mapi.apptimize.co
 0.0.0.0	gcp-stag-md.apptimize.co
 0.0.0.0	pagead2.googlesyndication.com
+0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 location.services.mozilla.com
+0.0.0.0 play.google.com
+0.0.0.0 detectportal.firefox.com
+0.0.0.0 shavar.services.mozilla.com
+0.0.0.0 firefox.settings.services.mozilla.com
