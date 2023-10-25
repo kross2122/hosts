@@ -80,3 +80,6 @@
 0.0.0.0 www.facebook.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googletagmanager.com
+0.0.0.0 widget-mediator.zopim.com
+0.0.0.0 images.ctfassets.net
+0.0.0.0 cdn.contentful.com
