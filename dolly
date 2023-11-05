@@ -89,3 +89,4 @@
 0.0.0.0 app-measurement.com
 0.0.0.0 plus.google.com
 0.0.0.0 www.googleadservices.com
+0.0.0.0 firebaselogging.googleapis.com
