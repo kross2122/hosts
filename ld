@@ -32,7 +32,6 @@
 0.0.0.0 detectportal.firefox.com
 0.0.0.0 dpm.demdex.net
 0.0.0.0 firebase-settings.crashlytics.com
-0.0.0.0 firebaseinstallations.googleapis.com
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 firebaseremoteconfig.googleapis.com
 0.0.0.0 firefox.settings.services.mozilla.com
