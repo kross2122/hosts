@@ -88,3 +88,4 @@
 0.0.0.0 plus.google.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 logging.googleapis.com
+0.0.0.0 secure.shippingapis.com
