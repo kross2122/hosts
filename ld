@@ -33,7 +33,6 @@
 0.0.0.0 dpm.demdex.net
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 firebaselogging-pa.googleapis.com
-0.0.0.0 firebaseremoteconfig.googleapis.com
 0.0.0.0 firefox.settings.services.mozilla.com
 0.0.0.0 fonts.googleapis.com
 0.0.0.0 gcdsdk.appsflyer.com
