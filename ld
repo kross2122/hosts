@@ -91,3 +91,8 @@
 0.0.0.0 api.smooch.io
 0.0.0.0 seondnsresolve.com
 0.0.0.0 firebaseinappmessaging.googleapis.com
+0.0.0.0 report.appmetrica.yandex.net
+0.0.0.0 startup.mobile.webvisor.com
+0.0.0.0 startup.mobile.yandex.net
+0.0.0.0 mobile.yandexadexchange.net
+0.0.0.0 yandex.ru
