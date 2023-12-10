@@ -96,3 +96,4 @@
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 mobile.yandexadexchange.net
 0.0.0.0 yandex.ru
+0.0.0.0 api.lyft.bitdrift.io
