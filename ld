@@ -91,3 +91,4 @@
 0.0.0.0 secure.shippingapis.com
 0.0.0.0 api.smooch.io
 0.0.0.0 seondnsresolve.com
+0.0.0.0 firebaseinappmessaging.googleapis.com
