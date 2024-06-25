@@ -90,3 +90,5 @@
 0.0.0.0 plus.google.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 firebaselogging.googleapis.com
+0.0.0.0 api.lyft.bitdrift.io
+0.0.0.0 cdn.cookielaw.org
